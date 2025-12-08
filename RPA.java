@@ -53,35 +53,7 @@ public class RPA {
             System.out.println("Banco não conectado com Sucesso");
         }
         //Fim da Conexão
-        
-        
-       
-        
-        //Inserção de Dados para Teste
-        /*
-        ArrayList<Funcionario> funcionarios = new ArrayList<>();
-        ArrayList<Curso> cursos = new ArrayList<>();
-        ArrayList<Professor> professores = new ArrayList<>();
-        ArrayList<Aluno> alunos = new ArrayList<>();
-        ArrayList<Trabalho> trabalhos = new ArrayList<>();
-          
-         
-        funcionarios.add(new Funcionario(12345678, "Coordenador da Engenharia da Computação", 12345678, 3, "João da Silva", "123.456.789-00", "37 99999-9999", "joao.silva@email.com", "senha123"));
-        System.out.println("Cadastrado");
-        cursos.add(new Curso("Engenharia da Computação", 12345678));
-       
-        professores.add(new Professor(11121314, "Doutora", 11121314, "Professora Titular de Física", 11121314, 2, "Luana Costa", "177.189.198-00", "37 9988-7766", "luana.costa@email.com", "123senha"));
-        
-        alunos.add(new Aluno(1694479, "Engenharia da Computação", 1694479, 1, "Eduardo Fernandes Paiva Ribeiro", "144.145.046-78", "37 96666-6666", "eduardo.ribeiro@email.com", "123456"));
-        
-       
-       */
-       //Testes Telas
-        
-         /*
-       TelaLogin teste = new TelaLogin();
-        teste.setVisible(true);
-       
+       /*
        ------------------------------------------------------
        //Telas Iniciais
         TelaInicialAluno teste5 = new TelaInicialAluno();
@@ -158,15 +130,6 @@ public class RPA {
         teste.setVisible(true);
          
          
-       
-      
-          
-        
-       
-       
-      
-        
-        
        
         
 
