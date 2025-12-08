@@ -220,6 +220,7 @@ O sistema possui telas específicas para cadastro, acessíveis principalmente a 
   - **Ler** – abre o PDF associado ao trabalho;
   - **Baixar** – faz o download local do arquivo;
   - **Alterar** – disponível apenas para perfis autorizados, permitindo edição dos metadados do trabalho.
+  - **Favoritar** - adiciona o trabahlo a tabela de trabalhos salvos daquele usuário 
 
 ---
 
