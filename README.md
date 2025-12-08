@@ -32,6 +32,7 @@ O sistema permite **cadastrar, organizar, buscar e acessar** trabalhos acadêmic
 
 A navegação do sistema é organizada por perfis de usuário: **Aluno**, **Professor** e **Funcionário**.  
 A partir da **Tela de Login**, cada perfil acessa um conjunto de funcionalidades específicas.
+O usuário pode retornar as páginas anteriores.
 
 ---
 
@@ -220,7 +221,8 @@ O sistema possui telas específicas para cadastro, acessíveis principalmente a 
   - **Ler** – abre o PDF associado ao trabalho;
   - **Baixar** – faz o download local do arquivo;
   - **Alterar** – disponível apenas para perfis autorizados, permitindo edição dos metadados do trabalho.
-  - **Favoritar** - adiciona o trabahlo a tabela de trabalhos salvos daquele usuário 
+  - **Favoritar** - adiciona o trabahlo a tabela de trabalhos salvos daquele usuário;
+  - E também vai direto para o subperfil do aluno, professor ou orientador.
 
 ---
 
