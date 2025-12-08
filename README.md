@@ -28,4 +28,10 @@ O sistema permite **cadastrar, organizar, buscar e acessar** trabalhos acadêmic
 
 
 ---
+🖼 Interfaces (prints de tela)
+
+
+
+
+
 Confira o projeto por completo no link: [TCC_Eduardo_Fernandes_Final.pdf](https://github.com/user-attachments/files/24038133/TCC_Eduardo_Fernandes_Final.pdf)
