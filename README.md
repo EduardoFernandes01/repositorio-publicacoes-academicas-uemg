@@ -164,7 +164,7 @@ O sistema possui telas específicas para cadastro, acessíveis principalmente a 
 
 #### 4.3. Cadastro de Professor
 
-![Tela Cadastro Professor](tela_cadastro_professor.png)
+![Tela Cadastro Professor](telaCadastroProfessor.png)
 
 - Campos para: nome, ID/MASP do professor, CPF, cargo, título, e-mail, telefone e senha;
 - Botão **Finalizar Cadastro** registra o professor no sistema.
